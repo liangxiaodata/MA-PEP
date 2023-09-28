@@ -1,6 +1,9 @@
 # MA-PEP
 MA-PEP：a novel anticancer peptide prediction framework with multi-modal feature fusion based on attention mechanisms
 
+## Model Overview
+![OverviewFigure](overview.png)
+
 ## How to Use
 Add your training and testing dataset in the data directory or use pre-prepared datasets.
 
