@@ -24,7 +24,7 @@ def get_train_config():
     # training parameters
     # parse.add_argument('-lr', type=float, default=0.0001, help='learning rate')
     parse.add_argument('-lr', type=float, default=0.00005, help='learning rate')
-    # parse.add_argument('-lr', type=float, default=0.000006, help='learning rate')
+    # parse.add_argument('-lr', type=float, default=0.0000006, help='learning rate')
     parse.add_argument('-reg', type=float, default=0.0000, help='weight lambda of regularization')
     # parse.add_argument('-batch-size', type=int, default=8, help='number of samples in a batch')
     parse.add_argument('-batch-size', type=int, default=32, help='number of samples in a batch')
