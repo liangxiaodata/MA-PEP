@@ -1,11 +1,3 @@
-# ---encoding:utf-8---
-# @Time : 2020.08.15
-# @Author : Waiting涙
-# @Email : 1773432827@qq.com
-# @IDE : PyCharm
-# @File : data_loader.py
-
-
 import pickle
 import torch
 import torch.utils.data as Data
